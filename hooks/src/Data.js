@@ -1,28 +1,28 @@
 export const Data = [
     {
       id: 0,
-      title: "peaky blinders",
-      posterUrl: "//pbs.twimg.com/media/ETAoYTMXgAA01qD.jpg",
+      title: "Titanic",
+      posterUrl: "https://i.pinimg.com/originals/79/98/db/7998db3a2e16eef2ebf254ab7416a288.jpg",
       rate: 4,
       description:
-        "A gangster family epic set in 1900s England, centering on a gang who sew razor blades in the peaks of their caps, and their fierce boss Tommy Shelby.",
-      trailer: "https://www.youtube.com/embed/oVzVdvGIC7U",
+        "C'est le centième anniversaire de la disparition du Titanic. Un nouveau paquebot ultra-moderne baptisé Titanic 2 se lance sur les traces de son prédécesseur.",
+      trailer: "https://www.youtube.com/watch?v=ptQ5d0Jb0nY",
     },
     {
       id: 1,
-      title: "Game of thrones",
+      title: " قسمه ونصيب",
       posterUrl:
-        "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F6%2F2015%2F11%2Fjs20-20tease.jpeg",
-      rate: 4.7,
+        "https://i.ytimg.com/vi/WfqaMjnWS74/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbJLeCMNRMDvw7fniP5F2QagDIVQ",
+      rate: 4,
       description:
-        "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
-      trailer: "https://www.youtube.com/embed/gcTkNV5Vg1E",
+        "قسمه و نصيب,فيلم قسمة و نصيب,قسمة و نصيب,تامر حسني,مي عز الدين,تامر حسني و مي عز الدين,فيلم تامر حسني ومي عز الدين,تامر حسني 2021,مي عز الدين 2021,عمر و سلمي,عمر و سلمي 3,تامر حسني ناسيني ليه,فيلم تامر حسني,فيلم مش انا تامر حسني,مش انا القاتل تامر حسني,مش انا تامر حسني,تامر حسني نسل الاغراب,حالة واتس تامر حسني,العارف,فيلم العيد,فيلم عيد الاضحى 2021,فيلم جامد,حلا شيحة,فيلم مش انا,مش انا مش انا ولا انا ولا انا,مراجعة فيلم مش انا,2021,",
+      trailer: "https://youtu.be/WfqaMjnWS74",
     },
     {
       id: 2,
       title: "The good doctor",
       posterUrl: "https://pbs.twimg.com/media/EbNkkiTXsAc2o3Y.jpg",
-      rate: 4.2,
+      rate: 3,
       description:
         "Shaun Murphy, a young surgeon with autism and Savant syndrome, is recruited into the surgical unit of a prestigious hospital.",
       trailer: "https://www.youtube.com/embed/msJggy8xtmI",
@@ -32,7 +32,7 @@ export const Data = [
       title: "Breaking bad",
       posterUrl:
         "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
-      rate: 4.5,
+      rate: 5,
       description:
         "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
       trailer: "https://www.youtube.com/embed/lrcqbavlbyQ",
@@ -42,7 +42,7 @@ export const Data = [
       title: "Prison Break",
       posterUrl:
         "https://upload.wikimedia.org/wikipedia/en/5/54/Prison-break-season-4-dvd.jpg",
-      rate: 4.2,
+      rate: 4,
       description:
         "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
       trailer: "https://www.youtube.com/embed/AL9zLctDJaU",
@@ -52,7 +52,7 @@ export const Data = [
       title: "Gangs of London",
       posterUrl:
         "https://m.media-amazon.com/images/M/MV5BOGJlZTE0MTQtZDdmMS00YWViLThlMDktYzk1N2RhMjY0NGEyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
-      rate: 4.1,
+      rate: 2,
       description:
         "Tells the story of London being torn apart by the turbulent power struggles of its international gangs and the sudden power vacuum that's created when the head of London's most powerful crime family is assassinated.",
       trailer: "https://www.youtube.com/embed/4CJ5p4XisHs",
@@ -62,7 +62,7 @@ export const Data = [
       title: "Taboo",
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/81BbPS82fnL._AC_SL1500_.jpg",
-      rate: 4,
+      rate: 1,
       description:
         "Adventurer James Keziah Delaney returns to London during the War of 1812 to rebuild his late father's shipping empire. However, both the government and his biggest competitor want his inheritance at any cost - even murder.",
       trailer: "https://www.youtube.com/embed/W1fiijqrKuc",
@@ -72,7 +72,7 @@ export const Data = [
       title: "Lethal Weapon",
       posterUrl:
         "https://vignette.wikia.nocookie.net/lethalweapon/images/2/2e/Lethal_Weapon_TV_series_poster.jpg/revision/latest/scale-to-width-down/340?cb=20160819024657",
-      rate: 3.8,
+      rate: 3,
       description:
         "A slightly unhinged cop is partnered with a veteran detective trying to maintain a low stress level in his life.",
       trailer: "https://www.youtube.com/embed/wN8h4-oyAbo",
@@ -82,7 +82,7 @@ export const Data = [
       title: "Dexter",
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/81JKXT1j0OL._SL1500_.jpg",
-      rate: 4.2,
+      rate: 4,
       description:
         "By day, mild-mannered Dexter is a blood-spatter analyst for the Miami police. But at night, he is a serial killer who only targets other murderers.",
       trailer: "https://www.youtube.com/embed/YQeUmSD1c3g",
@@ -92,7 +92,7 @@ export const Data = [
       title: "Black Sails",
       posterUrl:
         "https://m.media-amazon.com/images/M/MV5BZmExNzU1M2YtNGUzOC00MmM0LWEwYzYtZWJiYjYxNDcwY2E0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
-      rate: 3.5,
+      rate: 3,
       description:
         "Follows Captain Flint and his pirates twenty years prior to Robert Louis Stevenson's classic novel Treasure Island",
       trailer: "https://www.youtube.com/embed/rT2Y5jjBNpQ",
@@ -112,7 +112,7 @@ export const Data = [
       title: "The Walking deads",
       posterUrl:
         "https://fr.web.img2.acsta.net/c_216_288/medias/nmedia/18/78/35/82/20303823.jpg",
-      rate: 4.1,
+      rate: 4,
       description:
         "Series overview. The Walking Dead takes place after the onset of a worldwide zombie apocalypse. The zombies, colloquially referred to as walkers, shamble towards living humans and other creatures to eat them; they are attracted to noise, such as gunshots, and to different scents, e.g. humans",
       trailer: "https://www.youtube.com/embed/sfAc2U20uyg",

@@ -1,12 +1,12 @@
 import React from 'react'
-import Moviescard from './MoviesCard'
+import Moviescard from './Moviescard'
 
-function MovieList({movies, search}) {
+function Movieslist({movies, search,rating}) {
   return (
     <div className='list'>
-{movies.filter((mv)=>mv.title.toLowerCase().includes(search.toLowerCase())).map((el)=><Moviescard el={el}/>)}
+{movies.filter((mv)=>mv.title.toLowerCase().includes(search.toLowerCase())&& mv.rate>=rating).map((el)=><Moviescard el={el}/>)}
     </div>
   )
 }
 
-export default MoviesList
+export default Movieslist

@@ -1,0 +1,25 @@
+.card{
+    margin-top: 10px;
+}
+
+.list{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+.search{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+}
+.btn{
+    margin-left: 45%;
+    margin-top: 30px;
+}
+.card img{
+    height: 400px !important;
+}
