@@ -1,25 +1,7 @@
 export const Data = [
+    
     {
       id: 0,
-      title: "Titanic",
-      posterUrl: "https://i.pinimg.com/originals/79/98/db/7998db3a2e16eef2ebf254ab7416a288.jpg",
-      rate: 4,
-      description:
-        "C'est le centième anniversaire de la disparition du Titanic. Un nouveau paquebot ultra-moderne baptisé Titanic 2 se lance sur les traces de son prédécesseur.",
-      trailer: "https://www.youtube.com/watch?v=ptQ5d0Jb0nY",
-    },
-    {
-      id: 1,
-      title: " قسمه ونصيب",
-      posterUrl:
-        "https://i.ytimg.com/vi/WfqaMjnWS74/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBbJLeCMNRMDvw7fniP5F2QagDIVQ",
-      rate: 4,
-      description:
-        "قسمه و نصيب,فيلم قسمة و نصيب,قسمة و نصيب,تامر حسني,مي عز الدين,تامر حسني و مي عز الدين,فيلم تامر حسني ومي عز الدين,تامر حسني 2021,مي عز الدين 2021,عمر و سلمي,عمر و سلمي 3,تامر حسني ناسيني ليه,فيلم تامر حسني,فيلم مش انا تامر حسني,مش انا القاتل تامر حسني,مش انا تامر حسني,تامر حسني نسل الاغراب,حالة واتس تامر حسني,العارف,فيلم العيد,فيلم عيد الاضحى 2021,فيلم جامد,حلا شيحة,فيلم مش انا,مش انا مش انا ولا انا ولا انا,مراجعة فيلم مش انا,2021,",
-      trailer: "https://youtu.be/WfqaMjnWS74",
-    },
-    {
-      id: 2,
       title: "The good doctor",
       posterUrl: "https://pbs.twimg.com/media/EbNkkiTXsAc2o3Y.jpg",
       rate: 3,
@@ -28,17 +10,17 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/msJggy8xtmI",
     },
     {
-      id: 3,
+      id: 1,
       title: "Breaking bad",
       posterUrl:
         "https://image.tmdb.org/t/p/original/ggFHVNu6YYI5L9pCfOacjizRGt.jpg",
-      rate: 5,
+      rate: 3,
       description:
         "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
       trailer: "https://www.youtube.com/embed/lrcqbavlbyQ",
     },
     {
-      id: 4,
+      id: 2,
       title: "Prison Break",
       posterUrl:
         "https://upload.wikimedia.org/wikipedia/en/5/54/Prison-break-season-4-dvd.jpg",
@@ -48,7 +30,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/AL9zLctDJaU",
     },
     {
-      id: 5,
+      id: 3,
       title: "Gangs of London",
       posterUrl:
         "https://m.media-amazon.com/images/M/MV5BOGJlZTE0MTQtZDdmMS00YWViLThlMDktYzk1N2RhMjY0NGEyXkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_.jpg",
@@ -58,7 +40,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/4CJ5p4XisHs",
     },
     {
-      id: 6,
+      id: 4,
       title: "Taboo",
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/81BbPS82fnL._AC_SL1500_.jpg",
@@ -68,7 +50,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/W1fiijqrKuc",
     },
     {
-      id: 7,
+      id: 5,
       title: "Lethal Weapon",
       posterUrl:
         "https://vignette.wikia.nocookie.net/lethalweapon/images/2/2e/Lethal_Weapon_TV_series_poster.jpg/revision/latest/scale-to-width-down/340?cb=20160819024657",
@@ -78,7 +60,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/wN8h4-oyAbo",
     },
     {
-      id: 8,
+      id: 6,
       title: "Dexter",
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/81JKXT1j0OL._SL1500_.jpg",
@@ -88,7 +70,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/YQeUmSD1c3g",
     },
     {
-      id: 9,
+      id: 7,
       title: "Black Sails",
       posterUrl:
         "https://m.media-amazon.com/images/M/MV5BZmExNzU1M2YtNGUzOC00MmM0LWEwYzYtZWJiYjYxNDcwY2E0XkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_.jpg",
@@ -98,7 +80,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/rT2Y5jjBNpQ",
     },
     {
-      id: 10,
+      id: 8,
       title: "Black List",
       posterUrl:
         "https://i2.wp.com/www.nerdsandbeyond.com/wp-content/uploads/2018/11/203AD589-D9BC-4842-BE7A-3FAC786F49EA.jpeg?fit=750%2C947&ssl=1",
@@ -108,7 +90,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/XihA6GWIBdM",
     },
     {
-      id: 11,
+      id: 9,
       title: "The Walking deads",
       posterUrl:
         "https://fr.web.img2.acsta.net/c_216_288/medias/nmedia/18/78/35/82/20303823.jpg",
@@ -118,7 +100,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/sfAc2U20uyg",
     },
     {
-      id: 12,
+      id: 10,
       title: "Vis A Vis",
       posterUrl:
         "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR1DBIEAneCfzyHa1-xYPa2oMCulo6mken_9Q&usqp=CAU",
@@ -128,7 +110,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/ceNKwOvSVm8",
     },
     {
-      id: 13,
+      id: 11,
       title: "Cukur",
       posterUrl:
         "https://imgr.cineserie.com/2018/10/1129749.jpg?imgeng=/f_jpg/cmpr_0/w_744/h_1200/m_cropbox&ver=1",
@@ -138,7 +120,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/Ix43lQOjLGw",
     },
     {
-      id: 14,
+      id: 12,
       title: "See",
       posterUrl:
         "https://fr.web.img6.acsta.net/pictures/19/09/10/20/30/1507616.jpg",
@@ -148,7 +130,7 @@ export const Data = [
       trailer: "https://www.youtube.com/embed/7Rg0y7NT1gU",
     },
     {
-      id: 15,
+      id: 13,
       title: "SHERLOCK",
       posterUrl:
         "https://images-na.ssl-images-amazon.com/images/I/51j90UOkX-L.jpg",
